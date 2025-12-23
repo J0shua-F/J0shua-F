@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1>Hello, I'm Joshua</h1>
+Welcome to my GitHub! This space showcases my labs and skills learned as I continue building knowledge in IT and Identity and Access Management.
 
-<!--
-**J0shua-F/J0shua-F** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>Feel free to check out some of my projects!<br>
 
-Here are some ideas to get you started:
+<h2>👨‍💻 IT Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Active Directory Home Lab</b>
+
+
+<h2> 👥 Connect With Me:</h2>
+
+🌐 [Linkedin](https://www.linkedin.com/in/joshuafrimpong01/)
+
+📧 joshuafp01@gmail.com
