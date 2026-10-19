@@ -11,6 +11,6 @@ Welcome to my GitHub! This space showcases my labs and skills learned as I conti
 
 <h2> 👥 Connect With Me:</h2>
 
-🌐 [Linkedin](https://www.linkedin.com/in/joshuafrimpong01/)
+🌐 [Linkedin](www.linkedin.com/in/joshuafp01)
 
 📧 joshuafp01@gmail.com
